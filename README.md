@@ -9,6 +9,9 @@ The repository was structured in a way to make it easy to run the code directly 
 However, in case is needed, I list here the explicit requirements:
 - SpaCy 2.2.4
 - Matplotlib
+- Scikit-Learn
+- Numpy
+- Scipy
 - My [fork](https://github.com/steveazzolin/nltk) of NLTK (for the extra point)
     - as a folder in the root
 - [Pretrained](https://nlp.stanford.edu/projects/glove/) GloVe embeddings (for the extra point)
