@@ -7,7 +7,7 @@ The repository was structured in a way to make it easy to run the code directly 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steveazzolin/NLU-first-assignment/blob/main/code/NLU_first_assignment.ipynb)
 
 However, in case is needed, I list here the explicit requirements:
-- SpaCy 2.2.4
+- SpaCy 2.2.4 (running a different version may result in different results)
 - Matplotlib
 - Scikit-Learn
 - Numpy
