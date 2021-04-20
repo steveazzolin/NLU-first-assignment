@@ -1,4 +1,4 @@
-# NLU-first-assignement
+# NLU-first-assignment
 First assignment of the course Natural Language Understanding @ UNITN.
 
 ## Requirements
