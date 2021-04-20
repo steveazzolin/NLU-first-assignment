@@ -21,4 +21,4 @@ However, in case is needed, I list here the explicit requirements:
 ## Repo structure
 - *data/*: empty directory since the data needed is downloaded directly by the Colab notebook
 - *code/*: reference to the Colab notebook
-- *report.pdf*: a pdf file with details about the implemented functions
+- *Report.pdf*: a pdf file with details about the implemented functions
