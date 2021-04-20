@@ -14,6 +14,7 @@ However, in case is needed, I list here the explicit requirements:
 - Scipy
 - My [fork](https://github.com/steveazzolin/nltk) of NLTK (for the extra point)
     - as a folder in the root
+    - only *nltk/parse/transitionparser.py* has been updated
 - [Pretrained](https://nlp.stanford.edu/projects/glove/) GloVe embeddings (for the extra point)
     - put *glove.6B.50d.txt* in *../data/glove.6B.50d.txt*
 
